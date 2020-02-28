@@ -5,4 +5,4 @@ I made this calculator just to practice basic HTML and JS. It does not have much
 [Calculator](https://bilalsarimeseli.github.io/TheSimplestCalculator/)
 
 ## How it looks simple, needs makeup
-![cal](
+![cal](https://github.com/bilalsarimeseli/TheSimplestCalculator/blob/master/Screen%20Shot%202020-02-28%20at%201.11.46%20PM.png?raw=true)
